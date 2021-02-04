@@ -1,0 +1,15 @@
+.notification {
+  display: flex;
+  align-items: center;
+  margin: 3px;
+}
+
+.date {
+  font-family: 'Syne Tactile', cursive;
+  margin: 0;
+}
+
+.notification-deets p {
+  margin: 0;
+  font-family: 'Syne Mono', monospace;
+}

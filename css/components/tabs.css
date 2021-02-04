@@ -1,0 +1,26 @@
+/* Your tabs CSS code here */
+.tabs {
+  display: flex;
+}
+
+.tab {
+  padding: 20px;
+  margin: 20px;
+  color: rgba(50, 50, 50, 0.4);
+  font-weight: lighter;
+}
+
+.tab:hover {
+  color: rgba(50, 50, 50, 0.6);
+  font-weight: light;
+}
+
+.active {
+  border-bottom: 2px solid black;
+  color: rgba(50, 50, 50, 0.8);
+  font-weight: normal;
+}
+
+.active:hover {
+  color: rgba(50, 50, 50, 0.8);
+}
